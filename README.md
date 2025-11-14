@@ -1,2 +1,1 @@
-# my-first-project
-githubの最初のプロジェクト
+# About my first project on GitHub
